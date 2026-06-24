@@ -7,7 +7,7 @@ A closed-loop hardware-software automation prototype built to monitor real-time 
 ---
 
 ## 📸 Hardware Setup & Prototyping
-![Automated Plant Watering System Setup](./{7D2D268A-FB18-49A7-BBBE-CEEC1F9319D8}.png)
+![Automated Plant Watering System Setup]([./{7D2D268A-FB18-49A7-BBBE-CEEC1F9319D8}.png](https://github.com/yanolsh06/Plant-Watering-System/blob/9fecf694bc43584d9fc55a2563b71deb9e70a605/AEF67ECC-E4B0-4418-812C-5C10DF59C4EE.png))
 
 ---
 
